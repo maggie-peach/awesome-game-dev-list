@@ -1,0 +1,100 @@
+https://prominent.itch.io/crocotile3d
+Simple tool that lets you make 3d scenes and models in a 2d tile style, reminiscent of games like Mario 64 or Quake
+Pros:
+Helps you easily make a very specific style of graphics 
+Has a lot of polished modern graphics capabilities like lighting and reflections
+Cons:
+Very limited beyond it’s very niche style
+
+https://lexaloffle.itch.io/pico-8
+Immersive “fantasy console” that lets you fully create and run games in engine using lua
+Pros:
+Extremely unique stylized feeling
+Restrictions for simplicity can drive creativity
+Community minded system of “carts” to allow you to easily share games, pushes people to make small simple projects rather than large over the top games
+Entirely contained game development tools in IDE
+Cons:
+Restrictions can limit your capability
+
+https://microstudio.itch.io/microstudio
+Well rounded game engine with contained tools for programming, asset development, and testing, reminiscent of a more complex scratch
+Pros:
+Easy to learn
+2d and 3d
+Has everything you need in theory
+Cons:
+Doesn’t really do anything something like Unity couldn’t do better, just less complex
+
+
+
+
+
+https://baj.itch.io/drafft
+Visual programming style game planner that helps you track dialogue, storylines, as well as keep all your files organized and track your progress with the project
+Pros:
+Intuitive programming inspired flow chart
+Can do a lot for just one tool
+Collaborative work implemented
+Cons:
+Seemingly no support for Github
+
+https://johanpeitz.itch.io/picocad
+Tool built with Pico-8 that lets you make 3d models in a very similar, stylized, restricted fashion as Pico-8
+Pros:
+Limitations can drive creativity
+Very stylized workspace
+Cons:
+Limitations
+
+https://unity.com/
+Extremely popular game engine with very wide variety, very popular with indie games
+Pros:
+Well made engine that lets you focus on the game itself
+Very well supported and documented
+
+
+Cons:
+Struggles with very high end games
+
+
+https://www.unrealengine.com/
+Very powerful game engine used in some of the largest games as of late
+Pros:
+Very good with graphics
+Let’s you make very complex games
+Widely accepted industry standard
+Cons:
+IDE itself doesn’t perform well on lower end machines
+Much more complex
+Graphics can tend to all look the same across games
+
+https://www.blender.org/
+By far the most widely used 3d modeling software for creative projects
+Pros:
+Very powerful in capability
+Open-source
+Cons:
+Steep learning curve
+Low performance in very complex environments
+
+https://godotengine.org/
+Open source game engine for 2d and 3d that let’s you do a lot
+Pros:
+Open source license for publishing
+Lightweight
+Customizable
+Cons:
+Can struggle with complex projects
+
+https://www.jetbrains.com/clion
+C/C++ IDE developed by Jetbrains that is primarily used for Java and Javascript but has a version for C
+Pros:
+Nice tools
+Clean design
+Easy plugins and compatibility
+Cons:
+Doesn’t always perform well
+Limited features without subscription or student license
+
+
+
