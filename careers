@@ -1,0 +1,61 @@
+Game Dev General Paths
+Design
+The overall designers, big thinkers of the project. They have to be well rounded in all the disciplines to understand how all the parts of the team move together, and have to have a good vision of the game
+
+Programming
+Have to be well versed in computer science and has a lot of variety in specialties	
+
+Team Management
+Keeps everyone on target and manages tasks and goals, not necessarily a super game focused role but a very important one for any team
+
+Concept Art
+Makes art for the rest of the team to follow once ideas have been finalized since 2d sketches and renders are much cheaper and faster to produce than fully modelled, rigged, and animated characters
+
+Visual Asset Creation
+Makes the art that actually goes in the game, less creative than concept art but a creative role nonetheless
+
+Sound
+Produces the sound effects for the game, either from scratch by recording noises or pulling from sound libraries
+
+Music
+Makes the music for the game, often isn’t a full time team member, just an artist they hire	
+
+Production
+Manages the funds for the project as well and can also be a team lead
+
+Marketing
+Markets the game to publishers as well as potential players
+	
+Animation
+Makes the animations for the game, can be a part of the art department
+
+Game Programming Types
+Architecture
+Works on the core structure of the code, often requires a very deep understanding of computer science and works to optimize the code itself
+
+UI
+Programs how the UI functions, works heavily with UI design teams to create interfaces that are appealing and functional to the player
+
+Physics
+Programs the physics engine of the game and how physics objects interact. Varies in use depending on the game
+
+Game Systems
+Makes the systems for the game to actually run, functions like a layer above the architecture, actually focusing on the game itself, with other things like UI and Rendering above that
+
+AI
+Programs the AI algorithms for any procedural element of the game, AI can be from NPC pathing to random generation
+
+Server
+For an online game, makes the code for the game to interface with the internet and for people to be able to play together in some way
+
+Rendering
+Works on the graphics of the game, makes shaders and works with graphical APIs like Vulkan or OpenGL
+
+Animation
+Programs the animation made by the animation department into the game
+
+Tools
+Operates and creates tools for the programming team to use to streamline development
+
+Sounds
+	Programs in the sound of the game to play correctly
